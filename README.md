@@ -1,0 +1,2 @@
+# frontEndResources
+List of resources
