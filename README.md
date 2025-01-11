@@ -2,6 +2,7 @@
 List of resources that can be followed in the below order:
 
 Youtube Channel:
+
 https://www.youtube.com/@RoadsideCoder/playlists
 
 https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige
